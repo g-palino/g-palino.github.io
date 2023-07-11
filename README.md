@@ -1,7 +1,7 @@
 # Hello World
 Here is sample text.
 
-![cat](https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg)
+![culvert](./20200619_090205.jpg)
 
 Also  an emoji - 
 😃
